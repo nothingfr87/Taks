@@ -97,9 +97,9 @@ python3 src/main.py
 
 ## Screenshot
 
-![screenshot](assets/screenshot.png)
-![screenshot](assets/screenshot2.png)
-![screenshot](assets/screenshot3.png)
+![screenshot](screenshot.png)
+![screenshot](screenshot2.png)
+![screenshot](screenshot3.png)
 
 ---
 
