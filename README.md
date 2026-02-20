@@ -93,8 +93,6 @@ After that you can run the application with python
 python3 src/main.py
 ```
 
-in the repositery direcotry, then run the application normally
-
 ---
 
 ## Screenshot
